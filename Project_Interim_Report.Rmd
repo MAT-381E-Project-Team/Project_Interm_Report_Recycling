@@ -1,0 +1,325 @@
+---
+title: "Recycling Movement in the Europe"
+author: "*Hypatia*"
+date: "20/12/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+       
+# **Project team members**   
+    
+* [**Selin Duman**](https://github.com/Selinduman)
+* [**Zeynep Akkoç**](https://github.com/akkocz17)
+* [**Büşra Köksal**](https://github.com/bkksl)
+
+
+
+
+# **Contents**
+• Project Description • Project goal & social problem addressed • Project data •Changes • Actions  • Dataset Information • Codes and Preliminary Results • Planned Future Work • Conculusion • References 
+
+\
+
+# **Project Description**   
+    
+## **PROJECT GOALS & SOCIAL PROBLEM**
+
+Waste (or wastes) are unwanted or unusable materials. Waste is any substance which is discarded after primary use, or is worthless, defective and of no use. A by-product by contrast is a joint product of relatively minor economic value. A waste product may become a by-product, joint product or resource through an invention that raises a waste product's value above zero.As a result of the increased mass production after the industrial revolution, our world has almost turned into a garbage heap. Europe generates large amounts of waste: food and garden waste, construction and demolition waste, mining waste, industrial waste, sludge, old televisions, old cars, batteries, plastic bags, paper, sanitary waste, old clothes and old furniture… the list goes on.Any waste that is not recycled or reused has to go somewhere, and it usually ends up at a landfill site. Landfill sites contain both household and commercial rubbish. Household waste that gets sent to landfill consists of mostly organic waste, for example food, paper, cardboard or wood. Other household rubbish contains plastic or tin packaging. Landfill sites are ugly problem.Landfills are a major source of pollution, and there are many negative issues associated with them. Rubbish buried in landfill breaks down at a very slow rate and remains a problem for future generations. Garbage heaps, which are increasing day by day and we cannot prevent this increase, pose a great threat to our world. Some ecosystems, like the marine and coastal ones, can be severely affected by poor management of waste, or by littering. Marine litter is a growing concern, and not only for aesthetic reasons: entanglement and ingestion constitute severe threats to many marine species.    
+
+Waste impacts the environment indirectly as well. Whatever is not recycled or recovered from waste represents a loss of raw material and other inputs used in the chain, i.e. in the production, transport and consumption phases of the product. Directly or indirectly, waste affects our health and well-being in many ways: methane gases contribute to climate change, air pollutants are released into the atmosphere, freshwater sources are contaminated, crops are grown in contaminated soil and fish ingest toxic chemicals, subsequently ending up on our dinner plates… Recycling is the process of collecting and processing materials that would otherwise be thrown away as trash and turning them into new products. Recycling can benefit our community and the environment. These are some benefits of recyling ; Reduces the amount of waste sent to landfills and incinerators, conserves natural resources such as timber, water and minerals ,increases economic security by tapping a domestic source of materials, prevents pollution by reducing the need to collect new raw materials, saves energy and etc.   
+
+Our project goal is to raise awareness about the recycling movement looking at to examine the status of the recycling movement, which is of great importance for the environment, according to certain parameters for example we are going to examine the municipal waste recycled and composted in each European country and also we will review recycling rates by country in 2019 in various ways such as landfill and incineration with energy  and we will also examine the rate of recycling of municipal waste by countries from 2004 to 2014.  
+     
+Municipal waste is defined as waste collected and treated by or for municipalities. It covers waste from households, including bulky waste, similar waste from commerce and trade, office buildings, institutions and small businesses, as well as yard and garden waste, street sweepings, the contents of litter containers, and market cleansing waste if managed as household waste. The definition excludes waste from municipal sewage networks and treatment, as well as waste from construction and demolition activities.  
+
+Composting is the natural process of recycling organic matter, such as leaves and food scraps, into a valuable fertilizer that can enrich soil and plants. Dead plants, fruit and vegetable scraps can be recycled through composting.The resulting compost product can be used in a variety of ways. Composting can be used agricultural land, backyard garden or construction sites. Composting is free and a lot healthier for the environment.Composting means less waste goes to landfills.Minimize the amount of trash we send to the landfill: Like recycling, composting reduces the amount of waste that gets sent to the landfill.A landfill site, also known as a tip, dump, rubbish dump, garbage dump, or dumping ground, is a site for the disposal of waste materials.  
+
+In this way, our final product will be to analysing to recycling movement's evolution from different perspectives. Depending on this, it may be concluded whether some steps need to be taken or not.  
+
+\
+
+# **Project data**
+
+* [**Municipal waste recycled and composted in each European country**](https://www.eea.europa.eu/data-and-maps/daviz/municipal-waste-recycled-and-composted-3#tab-chart_3_filters=%7B%22rowFilters%22%3A%7B%7D%3B%22columnFilters%22%3A%7B%7D%3B%22sortFilter%22%3A%5B%22value_2016_reversed%22%5D%7D)
+  
+* [**Recycling rates by country**](https://en.wikipedia.org/wiki/Recycling_rates_by_country)   
+
+\
+
+# **Changes**
+
+We decided to make changes to our data for a number of reasons. As a result of this;  In our project, we revised our data by removing some of our data. The reason we removed our  data was because it only included data for Singapore. Since we cannot make a general comment with limited data, we decided to remove this data.
+
+\
+
+# **Actions**
+We aimed to make our project understandable and easy to read. We used various graphics and maps for this. Instead of tiring the readers with numbers and complex data, we wanted to explain the data with colors and shapes.  
+
+First of all, we started by adding the necessary libraries to our code. Then we imported our data and created our tables and loaded them into our code page. While processing the data, we deleted the unnecessary rows and columns, filtered the data that would be useful to us and created new tables. Then we interpreted them by turning them into graphics.   
+
+In the first table, we visualized the recycling rates of countries. In the second table, we showed the landfill rates of the countries. In these two tables, Turkey part was highlighted.In the next two tables, we first printed the table showing the relationship between recycling and landfill, and then again showing the relationship between landfill and  Incineration with  energy recovery. We visualized Turkey's recycling and landfill rate as a pie chart.In the last tables you will see, municipal waste rates in 20004 and 2014.  
+
+\
+
+# **Dataset Information**  
+
+The one of the dataset we obtained for the project was taken from this website (https://en.wikipedia.org/wiki/Recycling_rates_by_country). 
+To explain our dataset, we should know about some terms explanation. There are 5 terms that we should know. First of all, we can start with Recycling.  
+
+## **Recycling:**
+Recycling means that an item is reclaimed and then melted or broken down into raw materials to be manufactured into a new item. There are a lot of different types of recycling. Most popular ones are; Waste Paper and Cardboard, Plastic Recycling, Metal Recycling, WEEE Recycling (Electronic Devices), Wood Recycling, Glass Recycling, Clothing and Textile and Bricks and Inert Waste Recycling.  
+
+## **Composting**  
+Composting is the natural process of recycling organic matter, such as leaves and food scraps, into a valuable fertilizer that can enrich soil and plants. Dead plants, fruit and vegetable scraps can be recycled through composting.The resulting compost product can be used in a variety of ways. Composting can be used agricultural land, backyard garden or construction sites. Composting is free and a lot healthier for the environment. Composting means less waste goes to landfills.
+
+**Composting Benefits:**  
+Minimize the amount of trash we send to the landfill: Like recycling, composting reduces the amount of waste that gets sent to the landfill.  
+ 
+## **Incineration with energy recovery/without energy recovery**  
+Incineration with energy recovery refers to incineration processes where the energy created in the combustion process is harnessed for re-use, for example for power generation. Incineration without energy recovery means the heat generated by combustion is dissipated in the environment.  
+ 
+\
+
+## **Landfill**  
+Any waste that is not recycled or reused has to go somewhere, and it usually ends up at a landfill site. Landfill sites contain both household and commercial rubbish. Household waste that gets sent to landfill consists of mostly organic waste, for example food, paper, cardboard or wood. Other household rubbish contains plastic or tin packaging. Landfill sites are ugly problem.Landfills are a major source of pollution, and there are many negative issues associated with them. Rubbish buried in landfill breaks down at a very slow rate and remains a problem for future generations.  
+
+
+# **Codes and Preliminary Results**  
+```{r, warning=FALSE, message=FALSE, echo=F}
+  # Let's run the necessary libraries with the following code. 
+  # (**Note**: Libraries must be downloaded with **"install.packages()"** 
+  #  previously.)
+  library(tidyverse)
+  library(readr)
+  library(readxl)
+  library(ggplot2)
+  library(rvest)
+  library(ggpubr)
+```
+
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE}
+  # Reading in the table from Wikipedia
+  page = read_html("https://en.wikipedia.org/wiki/Recycling_rates_by_country")
+  # Obtain the piece of the web page that corresponds to the "wikitable" node
+  my.table = html_node(page, ".wikitable")
+  # Convert the html table element into a data frame
+  my.table = html_table(my.table, fill = TRUE)
+```  
+
+
+
+As we can the our output Slovenia's Recycling Rate in 2019 is the highest one.
+Compare to Slovenia Turkey Recycling rate in 2019 is one of the lowest.   
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE}
+  ggplot(data = my.table, aes(y = reorder(Country, -Recycling), 
+                            x = Recycling, fill = Country)) + 
+  labs(x="Recycling",y= "Countries", title="Countries's Recycling Rates")+
+
+  geom_bar(stat = "identity") + 
+  scale_fill_manual( values = c( "Turkey"="tomato" ), guide = FALSE )
+```
+
+\
+\
+\
+\
+\
+
+
+
+
+
+We checked the also Landfill rates.Our data output shows that  Turkey's Landfill rate in 2019 is the highest one. Compare to  Turkey. Germany Landfill rate in 2019 is one of the lowest.  
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE}
+  ggplot(data = my.table, aes(y = reorder(Country, -Landfill), 
+                            x = Landfill, fill = Country)) + 
+  labs(x="Landfill Rates",y= "Countries", title="Countries's Landfill Rates")+
+  
+  geom_bar(stat = "identity") + 
+  scale_fill_manual( values = c( "Turkey"="tomato" ), guide = FALSE )
+```
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+
+If we consider the terms we have explained and our data outputs.Landfill and recycling rates of countries are inversely related to each other.The red curve in our output clearly shows us this relationship. This relationship, which we usually see in developing countries, is related to the high rate of Landfill, the oldest method used in waste disposal. Landfills are commonly found in developing countries.Developed countries have kept this Landfill rate low by using the Landfill technique less.   
+
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE}
+  par(mar=c(5,5,5,7.2), xpd=FALSE)
+  plot(x= my.table$Recycling , y= my.table$Landfill , pch=19 , type= "p",
+       main= "Relationship between Recycling and Landfill",
+       xlab="Recyling",
+       ylab="Landfill")
+  abline( lm(my.table$Recycling ~ my.table$Landfill), lwd=2 ,ly=  "dotted" , 
+          col="red")
+```
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+If we consider the terms we have explained and our data outputs.Landfill and Incineration with energy recovery rates of countries are inversely related to each other.The red curve in our output clearly shows us this relationship. This relationship, which we usually see in developed countries, is related to the high rate of Incineration with energy recovery technic. In generally this technic  is used from development countries. Because of the construction cost, developing countries use this technich with really low rates.Developed countries have kept this Landfill rate high by using the advanced industrial facilities.  
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE}
+  par(mar=c(5,5,5,7.2), xpd=FALSE)
+  plot(x= my.table$`Incineration with energy recovery` , y= my.table$Landfill , 
+       pch=19 , type= "p",
+       main= "Relationship between IER and Landfill",
+       xlab="Incineration with energy recovery",
+       ylab="Landfill")
+  abline( lm(my.table$`Incineration with energy recovery` ~ my.table$Landfill), 
+          lwd=2 ,ly=  "dotted" , col="red")
+```
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+If we need to examine the rate of Turkey in the pie chart;unfortunately, it is seen that the Landfill rate is the highest in our country according to 2019 data.
+The recycling rate is very low compared to the Landfill rate.We hope that in the near future, we can see the rates to be the opposite of this situation.It is in our hands to change these rates by raising our awareness of this issue, which is one of the goals of our project.    
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE}
+  # Create data for the graph.
+  Turkey <- c(12,88)
+  labels <- c("Recycling","Landfill")
+  # Plot the chart with title.
+  pie(Turkey, labels, main = "Turkey's Recyling and Landfill Rates")
+```
+
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE, echo=F}
+  data3 <- read.csv("data3.csv")
+  data3[17,]= NA
+  data3[18,]= NA
+  data3[19,]= NA
+  data3[20,]= NA
+  data3[23,3] <- c("Macedonia")
+  data3[24,3] <- c("Macedonia")
+  A=na.omit(data3)
+
+```
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+The recycling rate of municipal waste in developed countries is higher than in underdeveloped or developing countries. From this point of view, we can say that developed countries attach great importance to recycling. Slovenia, Lithuania are the countries that have increased the percentage of municipal recycling at the highest rate in 12 years. Since there is no data for 2004 and 2014 in Serbia and Bosnia and Herzegovina, and for 2004 in Montenegro, a certain interpretation cannot be made. According to the data given in the countries of Turkey and Romania, it seems that the necessary importance is not given to recycling. 
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE}
+  # In this code, we filter the data and bring the data of 2004 and 
+  # 2016 into separate tables.
+  yil2004 <- A %>%
+    select("date.year", "country.text", "value.number") %>%
+    filter(date.year == 2004) %>%
+    arrange(value.number)
+
+  yil2016 <- A %>%
+    select("date.year", "country.text", "value.number") %>%
+    filter(date.year == 2016) %>%
+    arrange(value.number)
+```
+
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE, echo=F}
+    dp <- ggplot(yil2004, aes(x = reorder(country.text, value.number), 
+                              y = value.number)) +  
+          geom_point(stat = "identity", color = "red", size = 2) +
+          geom_segment(aes(y = 0,
+                           x = country.text,
+                           yend = value.number,
+                           xend = country.text),
+                       color = "red") + 
+          labs(x = "Countries", y = "Percentage of recycled", 
+               title = " in 2004") + 
+          coord_flip()
+    
+    lp <- ggplot(yil2016, aes(x = reorder(country.text, value.number), 
+                              y = value.number)) +  
+          geom_point(stat = "identity", color = "black", size = 2) +
+          geom_segment(aes(y = 0,
+                           x = country.text,
+                           yend = value.number,
+                           xend = country.text),
+                       color = "black") +
+          labs(x = "Countries", y = "Percentage of recycled", 
+               title = "in 2016") + 
+      coord_flip()
+```
+
+
+ 
+
+
+##        **Municipal waste recycled and composted in each European country**
+
+```{r show_col_types = FALSE, warning=FALSE, message=FALSE, echo=F}
+  ggarrange(dp, lp) +
+  labs(title = "Municipal waste recycled and composted in each European country") 
+  #coord_flip()
+```
+\
+
+# **Planned Future Work**  
+
+The next step will be to visualize our data that we haven't used yet. Afterwards, we will examine the data we first examined in more detail and make an improvement in terms of visualization. We will then have a better idea of the recycling movement by interpreting all the analyzed data together.     
+  
+We want to do research on the export of garbage, which is related to our waste management subject and which is a big problem today.Since Turkey is the country that receives the most garbage from the EU, we should bring clarity and awareness to the issue in the light of data.  
+
+
+# **Conculusion**  
+
+We analyzed our data for 2019 and tried to explain it with various visualizations. According to these results, although in recent history, we unfortunately see that the Landfill rates are really high in specially developing countries such as Turkey.Also, we realized that  the recycling rate is not above 50 percent except in Slovenia. This showed us that this ratio should be improved for each country in our data. One of our striking results is that the landfill rate has an inverse relationship with the recycling and incineration with energy recovery rate.We believe that awareness of this issue will increase over time and that we can solve this problem with education and goverment’s policy. We have only one world and we have no right to turn it into a garbage dump.  
+
+
+# **References**
+* https://data.oecd.org/waste/municipal-waste.htm
+* https://en.wikipedia.org/wiki/Landfill
+* https://www.epa.gov/recycle/recycling-basics
+
