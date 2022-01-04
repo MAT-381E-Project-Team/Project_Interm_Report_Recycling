@@ -1,0 +1,76 @@
+date_original:year,date:year,country:text,value:number
+2016,2016,Austria,58.0
+2004,2004,Austria,57.0
+2004,2004,Belgium,52.0
+2016,2016,Belgium,53.0
+2008,2004,Bosnia and Herzegovina,0.0
+2016,2016,Bosnia and Herzegovina,0.0
+2004,2004,Bulgaria,17.0
+2016,2016,Bulgaria,32.0
+2016,2016,Croatia,21.0
+2007,2004,Croatia,3.0
+2016,2016,Cyprus,17.0
+2004,2004,Cyprus,3.0
+2004,2004,Denmark,41.0
+2016,2016,Denmark,48.0
+2016,2016,Estonia,28.0
+2004,2004,Estonia,25.0
+2016,2016,European Union (before the accession of Croatia),46.0
+2004,2004,European Union (before the accession of Croatia),31.0
+2016,2016,European Union (current composition),45.0
+2007,2004,European Union (current composition),35.0
+2016,2016,Finland,42.0
+2004,2004,Finland,34.0
+2008,2004,"Former Yugoslav Republic of Macedonia, the",0.0
+2011,2016,"Former Yugoslav Republic of Macedonia, the",0.0
+2004,2004,France,29.0
+2016,2016,France,42.0
+2004,2004,Germany,56.0
+2016,2016,Germany,66.0
+2004,2004,Greece,10.0
+2016,2016,Greece,17.0
+2004,2004,Hungary,12.0
+2016,2016,Hungary,35.0
+2004,2004,Ireland,29.0
+2014,2016,Ireland,40.0
+2004,2004,Italy,18.0
+2016,2016,Italy,45.0
+2016,2016,Latvia,25.0
+2004,2004,Latvia,5.0
+2016,2016,Lithuania,48.0
+2004,2004,Lithuania,2.0
+2016,2016,Luxembourg,48.0
+2004,2004,Luxembourg,41.0
+2004,2004,Malta,6.0
+2016,2016,Malta,7.0
+2016,2016,Netherlands,53.0
+2004,2004,Netherlands,47.0
+2016,2016,Norway,38.0
+2004,2004,Norway,37.0
+2016,2016,Poland,35.0
+2004,2004,Poland,5.0
+2016,2016,Portugal,31.0
+2004,2004,Portugal,13.0
+2004,2004,Romania,1.0
+2016,2016,Romania,13.0
+2006,2004,Serbia,0.0
+2016,2016,Serbia,0.0
+2004,2004,Slovakia,6.0
+2016,2016,Slovakia,23.0
+2004,2004,Slovenia,20.0
+2016,2016,Slovenia,58.0
+2016,2016,Spain,30.0
+2004,2004,Spain,31.0
+2004,2004,Sweden,44.0
+2016,2016,Sweden,49.0
+2016,2016,Switzerland,53.0
+2004,2004,Switzerland,49.0
+2016,2016,United Kingdom,44.0
+2004,2004,United Kingdom,23.0
+2004,2004,Czech Republic,12
+2016,2016,Czech Republic,38.1
+2004,2004,Turkey,1
+2012,2016,Turkey,9
+2003,2004,Iceland,16
+2015,2016,Iceland,34
+2016,2016,Montenegro,4.5
